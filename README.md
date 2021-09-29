@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jhaslyn Gerochi. You can call me Jhas
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Javascript and Python. Also, I'm trying to learn how to use Github
-- 💞️ I’m looking to collaborate on idk yet
 - 📫 How to reach me: You can email me! @ gerochijessiedy@gmail.com
 
 <!---
